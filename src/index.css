@@ -1,0 +1,22 @@
+#nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    background-color: rgb(179, 179, 179);
+    padding: 10px;
+    border: 2px solid black;
+}
+#categories ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 20px;
+    padding: 10px;
+}
+#categories  ul li{
+    border: 2px solid black;
+    padding: 10px;
+    margin:10px;
+    background-color: seashell;
+    border-radius: 10px;
+}
